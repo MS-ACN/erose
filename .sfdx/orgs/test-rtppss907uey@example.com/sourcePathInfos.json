@@ -1,0 +1,257 @@
+[
+    [
+        "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app",
+        {
+            "sourcePath": "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1540453783343,
+            "changeTime": 1540453783343,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1540453783344,
+            "changeTime": 1540453783344,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540455454601,
+            "changeTime": 1540455454601,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1540454453840,
+            "changeTime": 1540454453944,
+            "contentHash": "fb631d5cac431eb3cea50ee1ca084f0207dd8676",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1",
+        {
+            "sourcePath": "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1540454511882,
+            "changeTime": 1540454511882,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\objects\\Account\\fields\\IsHappy__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\objects\\Account\\fields\\IsHappy__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 326,
+            "modifiedTime": 1540455454569,
+            "changeTime": 1540455454569,
+            "contentHash": "1ce6cf19bf13837987aae89ba7a20725530c3351"
+        }
+    ],
+    [
+        "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9629,
+            "modifiedTime": 1540455454579,
+            "changeTime": 1540455454579,
+            "contentHash": "3a926ca2dd0f8eb21590e500b6422dca7a0dca2c"
+        }
+    ],
+    [
+        "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9581,
+            "modifiedTime": 1540455454585,
+            "changeTime": 1540455454585,
+            "contentHash": "fc0d45b64b2849229be3fb9fbdd7c54b11bab6d2"
+        }
+    ],
+    [
+        "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9581,
+            "modifiedTime": 1540455454591,
+            "changeTime": 1540455454591,
+            "contentHash": "98562e2c803ed4df2262b21cc704257d66364145"
+        }
+    ],
+    [
+        "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9629,
+            "modifiedTime": 1540455454592,
+            "changeTime": 1540455454592,
+            "contentHash": "1bcdaad523e2693c088a6426ac6c3b1de0f749a9"
+        }
+    ],
+    [
+        "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17996,
+            "modifiedTime": 1540455454613,
+            "changeTime": 1540455454613,
+            "contentHash": "a2a07fde8ec1c00ca97a36156c784f2faa5cb4d6"
+        }
+    ],
+    [
+        "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4812,
+            "modifiedTime": 1540455454620,
+            "changeTime": 1540455454620,
+            "contentHash": "2db57269199b464409e8eb3e7fa1abc4491f4f92"
+        }
+    ],
+    [
+        "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4476,
+            "modifiedTime": 1540455454625,
+            "changeTime": 1540455454625,
+            "contentHash": "77906d990670373622a90392c5362f6da95a9264"
+        }
+    ],
+    [
+        "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4472,
+            "modifiedTime": 1540455454631,
+            "changeTime": 1540455454631,
+            "contentHash": "24a222fdc78f58cc66e21a898a4be479959c775b"
+        }
+    ],
+    [
+        "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540455454564,
+            "changeTime": 1540455454564,
+            "contentHash": "b1ca271337ffae27e972b2bc99bf772e01c3ce5a"
+        }
+    ],
+    [
+        "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540455454563,
+            "changeTime": 1540455454563,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540455454563,
+            "changeTime": 1540455454563,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540455454592,
+            "changeTime": 1540455454592,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mark.samson\\Documents\\Git\\erose\\Dev1\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540455454629,
+            "changeTime": 1540455454629,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
